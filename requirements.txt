@@ -32,6 +32,7 @@ networkx==3.6.1
 numba==0.65.1
 numcodecs==0.16.5
 numpy==2.4.4
+nvidia-nccl-cu12==2.30.7
 packaging==26.2
 pandas==2.3.3
 parso==0.8.6
@@ -67,4 +68,5 @@ typing_extensions==4.15.0
 tzdata==2026.2
 umap-learn==0.5.12
 wcwidth==0.6.0
+xgboost==3.2.0
 zarr==3.2.1

@@ -4,3 +4,4 @@ pregled_podataka*
 Nat*
 *.png
 .venv/
+models/
