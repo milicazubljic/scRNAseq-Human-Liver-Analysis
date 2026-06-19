@@ -80,3 +80,5 @@ Sve potrebne biblioteke se mogu instalirati komandom
 ```bash
 pip install requirements.txt
 ```
+
+Preporučeno je pokretati kodove u Jupyter Notebook/Lab okruženju.
