@@ -5,3 +5,4 @@ Nat*
 *.png
 .venv/
 models/
+.ipynb_checkpoints/
